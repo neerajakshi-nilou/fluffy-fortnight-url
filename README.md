@@ -1,2 +1,1 @@
-# fluffy-fortnight-url
-https://fluffy-fortnight-six.vercel.app
+This repository contains the url for my project Luminaria
